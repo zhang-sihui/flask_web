@@ -1,0 +1,14 @@
+# 字母大小写不能改变
+
+cmd模式
+首先进入文件夹    \flask\flask_blog
+激活              venv\scripts\activate
+运行应用       set FLASK_APP=flaskr
+		set FLASK_ENV=development
+		flask run
+		
+		网页搜索网址 http://127.0.0.1:5000/
+
+退出		ctrl + c
+
+
